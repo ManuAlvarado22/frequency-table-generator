@@ -33,6 +33,11 @@ body {
   .col:last-child {
     border-right: none; }
 
+.caption {
+  font-size: 1.8rem;
+  width: 100%;
+  margin: 0 auto 1rem; }
+
 .dataset {
   width: 50%;
   margin: 5rem auto 0;
@@ -55,3 +60,5 @@ body {
   font-size: 1.7rem;
   margin-top: .5rem;
   cursor: pointer; }
+
+/*# sourceMappingURL=style.css.map */
